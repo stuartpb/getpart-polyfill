@@ -1,0 +1,24 @@
+{
+  "name": "getpart-polyfill",
+  "version": "1.0.0",
+  "description": "A polyfill for the DOM functions of the HTML Parts and Walls spec.",
+  "main": "getpart-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuartpb/getpart-polyfill.git"
+  },
+  "keywords": [
+    "part",
+    "wall",
+    "polyfill"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/getpart-polyfill/issues"
+  },
+  "homepage": "https://github.com/stuartpb/getpart-polyfill"
+}
